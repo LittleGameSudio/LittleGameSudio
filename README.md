@@ -1,4 +1,4 @@
-- 👋 Hi, I’m UnityStormStudio, I'm a unity develloper and I code video
+👋 Hi, I’m UnityStormStudio, I'm a unity develloper and I code video
 games since 2017. I will help people in trouble and post repositery to
 speed up your game development 😉. 
 
