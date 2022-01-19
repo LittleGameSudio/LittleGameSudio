@@ -1,9 +1,9 @@
-👋 Hi, I’m UnityStormStudio, I'm a unity develloper and I code video
-games since 2017. I will help people in trouble and post repositery to
-speed up your game development 😉. 
+👋 Salut , Je suis LittleGameStudio , je suis un développeur unity et je code des jeux vidéo depuis 2018.
+Je vais aider les personnes en difficulté et poster des project pour
+accélérer le développement de vos jeux 😉. 
 
-If you want to email me, do so! 
-unitystorm.develloper@gmail.com
+N'hésitez pas à me contactez !
+littlegamestudio.dev@gmail.com
 
 <!---
 UnityStormStudio/UnityStormStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
